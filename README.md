@@ -10,6 +10,4 @@
 >
 [![R2J1cP.jpg](https://www.helloimg.com/images/2022/04/29/R2J1cP.jpg)](https://www.helloimg.com/image/R2J1cP)
 [![R2J3r6.png](https://www.helloimg.com/images/2022/04/29/R2J3r6.png)](https://www.helloimg.com/image/R2J3r6)
-$("body").css('background-image', `url('https://89c8658d.ngrok.io/backgroundb')`); // server url
-$("body").css('background-repeat', `no-repeat`);
-$("body").css('background-size', `cover`);
+
